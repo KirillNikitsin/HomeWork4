@@ -35,7 +35,7 @@ public class krestikinoliki {
         int x;
         int y;
         do{
-            System.out.println("Введите координаты X Y");
+            System.out.println("Введите координаты X Y.");
             x = scanner.nextInt() - 1;
             y = scanner.nextInt() - 1;
         }
